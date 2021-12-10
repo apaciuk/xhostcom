@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xhostcom my name is Paul Anthony McGowan
-- 👀 I’m interested in Wordpress, Vue, Rails related front and back end tech....
+- 👀 I’m interested in Ruby/Rails, Vue,  Wordpress, related front and back end tech....
 - 💞️ I’m looking to collaborate on projects involving the above
 - 📫 How to reach me ... email: xhostcom@gmail.com
 
