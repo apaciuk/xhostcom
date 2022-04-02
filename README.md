@@ -2,7 +2,7 @@
 - 👀 I’m interested in Ruby/Rails, Javascript,  Wordpress, related front and back end tech....
 - 💞️ I’m looking to collaborate on projects involving the above
 - 📫 How to reach me ... email: xhostcom@gmail.com
-- # Try my Rails 7 Jumpstart themes, light and dark versions at
+- # Rails 7 Jumpstart themes, light and dark versions at
 - 
 - https://github.com/xhostcom/rails-7-saas-jumpstart-light.git
 - and
