@@ -3,9 +3,9 @@
 - 💞️ I’m looking to collaborate on projects involving the above
 - 📫 How to reach me ... email: xhostcom@gmail.com
 - # Rails 7 Jumpstart themes, light and dark versions at
-- 
+
 - https://github.com/xhostcom/rails-7-saas-jumpstart-light.git
-- and
+  and
 - https://github.com/xhostcom/rails-7-saas-jumpstart-octo.git
 
 <!---
