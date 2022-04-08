@@ -1,12 +1,14 @@
 - 👋 Hi, I’m @xhostcom my name is Paul Anthony McGowan
-- 👀 I’m interested in Ruby/Rails, Javascript, Full Stack, Wordpress, eCommerce related front and back end tech....
+- 👀 I’m a Ruby & Rails Developer, Javascript, Full Stack, Wordpress, eCommerce related front and back end tech....
 - 💞️ I’m looking to collaborate on projects involving the above
 - 📫 How to reach me ... email: info@xhostcom.com
-- # Rails 7 Jumpstart themes, light and dark versions at
+- ## Rails 7 Jumpstart themes, light and dark versions at ##
 
 - https://github.com/xhostcom/rails-7-saas-jumpstart-light.git
   and
 - https://github.com/xhostcom/rails-7-saas-jumpstart-octo.git
+
+You Tube: https://www.youtube.com/watch?v=NTqPCBMZH5c
 
 <!---
 xhostcom/xhostcom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
