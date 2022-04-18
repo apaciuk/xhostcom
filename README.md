@@ -10,6 +10,8 @@
 
 You Tube: https://www.youtube.com/watch?v=NTqPCBMZH5c
 
+Other Github account is @xhostcomweb
+
 <!---
 xhostcom/xhostcom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
