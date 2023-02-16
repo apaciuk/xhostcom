@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xhostcom my name is Paul Anthony McGowan
-- 👀 I’m a Ruby & Rails Developer, Javascript, Full Stack, Wordpress, eCommerce related front and back end tech....
+- 👀 I’m a Ruby & Rails Developer, Javascript, Full Stack, Data, eCommerce related front and back end tech....
 - 💞️ I’m looking to collaborate on projects involving the above
 - 📫 How to reach me ... email: info@xhostcom.com
 - ## Rails 7 Jumpstart themes, with numerous preconfigured defaults, versions at ##
